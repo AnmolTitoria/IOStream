@@ -5,7 +5,7 @@ namespace IOStream
 {
     internal class Program
     {
-
+// Edit from gitgub
         static void Main(string[] args)
 
         {
